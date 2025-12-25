@@ -13,10 +13,3 @@ This is a Spring Boot REST API application for managing products. [cite_start]It
 1. **POST /api/v1/products**: Creates a new product. [cite_start]Returns Status 201 Created[cite: 631, 714].
 2. [cite_start]**GET /api/v1/products**: Returns a list of all products in the database[cite: 1327, 1378].
 3. **DELETE /api/v1/products/{id}**: Deletes a product by its unique ID. [cite_start]Returns Status 204/200[cite: 1393, 1404].
-
-## Functionality Proof
-*(Note: Replace these placeholder lines with your actual screenshot images)*
-![Swagger Overview](screenshots/swagger_overview.png)
-![Create Product Success](screenshots/create_product_201.png)
-![Database Query Result](screenshots/h2_database_proof.png)
-![Delete Product Success](screenshots/delete_product_success.png)
