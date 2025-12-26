@@ -16,14 +16,14 @@ This is a Spring Boot REST API application for managing products. [cite_start]It
 ## Functionality Proof
 
 ### 1. API Overview (Swagger UI)
-![Swagger Overview](01.jpeg)
+![Swagger Overview](java-spring-screenshots/01.jpeg)
 
 ### 2. Creating a Product (POST Request)
-![POST Request](02.jpeg)
+![POST Request](java-spring-screenshots/02.jpeg)
 
 ### 3. Success Response (201 Created)
-![Success Response](04.jpeg)
+![Success Response](java-spring-screenshots/04.jpeg)
 
 ### 4. Database Verification (H2 Console)
-![H2 Database](03.jpeg)
+![H2 Database](java-spring-screenshots/03.jpeg)
 
