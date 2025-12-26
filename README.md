@@ -26,3 +26,4 @@ This is a Spring Boot REST API application for managing products. [cite_start]It
 
 ### 4. Database Verification (H2 Console)
 ![H2 Database](03.jpeg)
+
